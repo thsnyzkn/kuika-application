@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./fonts/Graphie-Regular.otf";
 import "./index.less";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
